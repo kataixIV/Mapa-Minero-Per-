@@ -1,1 +1,1 @@
-web: gunicorn Mapa Minero Perú:server
+web: gunicorn MMP:server
