@@ -1,0 +1,28 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de configuración de editores de código
+.idea/
+.vscode/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de instalación y dependencias
+*.egg-info/
+dist/
+build/
+
+# Archivos de Excel generados localmente (si no quieres subirlos)
+# Si tu archivo de Excel SÍ debe estar en GitHub, NO incluyas la siguiente línea.
+# minas_peru_geocodificado.xlsx
